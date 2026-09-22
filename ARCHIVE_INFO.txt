@@ -1,0 +1,6 @@
+archive        : yolo-ocr-digitization.zip
+algorithm      : WinZip AES-256 (AE-2), ZIP deflate
+sha256(archive): 5ddd37c186a6c4c75032f8dd955bfdfe511668f950ff1e8fbdadce5092bce5e0
+files          : 8
+unpacked bytes : 20592
+password       : NOT stored here. Sent separately.
